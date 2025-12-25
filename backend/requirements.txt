@@ -1,0 +1,14 @@
+flask
+Sastrawi
+keras
+gensim
+pandas
+numpy
+scikit-learn
+tensorflow
+nltk
+WordCloud
+matplotlib
+seaborn
+gunicorn
+

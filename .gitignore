@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.pkl
+glove*.txt
+token_vectors.txt
+stemming_vec.txt
+node_modules/
+.next/
